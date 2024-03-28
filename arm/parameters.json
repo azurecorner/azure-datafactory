@@ -4,6 +4,24 @@
     "parameters": {
         "storageAccounts_storagedemologcorner_name": {
             "value": null
+        },
+        "virtualMachines_windows_self_hosted_IR_name": {
+            "value": null
+        },
+        "publicIPAddresses_windows_self_hosted_IR_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_windows_self_hosted_IR_vnet_name": {
+            "value": null
+        },
+        "networkInterfaces_windows_self_hosted_ir438_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_windows_self_hosted_IR_nsg_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_windows_self_hosted_ir_name": {
+            "value": null
         }
     }
 }
