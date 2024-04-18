@@ -1,9 +1,0 @@
-{
-	"name": "adf-logcorner",
-	"location": "westeurope",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "dcfa6f45-c5d4-4842-aadd-fc766817bcd6",
-		"tenantId": "f12a747a-cddf-4426-96ff-ebe055e215a3"
-	}
-}
