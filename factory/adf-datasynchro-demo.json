@@ -1,0 +1,9 @@
+{
+	"name": "adf-datasynchro-demo",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0462d281-f48f-466a-8d38-0ca578f17674",
+		"tenantId": "f12a747a-cddf-4426-96ff-ebe055e215a3"
+	}
+}
