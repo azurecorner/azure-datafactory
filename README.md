@@ -28,6 +28,10 @@ Deux services liés, l'un pour se connecter au compte de stockage Azure en utili
 Un pipeline pour transformer et transférer le fichier vers le stockage Azure Data Lake Gen2
 
 
+![data-driven-workflow](https://github.com/azurecorner/azure-datafactory/assets/108787059/b955e689-f48c-4e50-a520-104aee0429d8)
+
+
+![architecture-data-factory-1](https://github.com/azurecorner/azure-datafactory/assets/108787059/4358f59e-e125-4be8-9ddf-f0e3e70adb75)
 
 
 
