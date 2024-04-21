@@ -33,7 +33,7 @@ Un pipeline pour transformer et transférer le fichier vers le stockage Azure Da
 
 ![architecture-data-factory-1](https://github.com/azurecorner/azure-datafactory/assets/108787059/4358f59e-e125-4be8-9ddf-f0e3e70adb75)
 
-
+https://www.decivision.com/blog/microsoft-bi/presentation-de-azure-data-factory
 
 https://learn.microsoft.com/fr-fr/training/modules/data-integration-azure-data-factory/5-understand-components
 
