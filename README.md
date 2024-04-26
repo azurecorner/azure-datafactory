@@ -7,6 +7,13 @@ Les pipelines d'Azure Data Factory et Azure Synapse sont des solutions qui répo
 
 Dans cette session, nous allons explorer Azure Data Factory, ses différents composants, ainsi que les mesures de sécurité essentielles pour approvisionner et gérer Azure Data Factory
 
+![data-driven-workflow](https://github.com/azurecorner/azure-datafactory/assets/108787059/b955e689-f48c-4e50-a520-104aee0429d8)
+https://www.decivision.com/blog/microsoft-bi/presentation-de-azure-data-factory
+
+![architecture-data-factory-1](https://github.com/azurecorner/azure-datafactory/assets/108787059/4358f59e-e125-4be8-9ddf-f0e3e70adb75)
+
+https://learn.microsoft.com/fr-fr/training/modules/data-integration-azure-data-factory/5-understand-components
+
 1. Public visé ?
 
 Cette serie de tutoriel est destiné aux  professionnels de la data dans Azure (data engineer, data architect, étudiants). 
@@ -28,13 +35,5 @@ Deux services liés, l'un pour se connecter au compte de stockage Azure en utili
 Un pipeline pour transformer et transférer le fichier vers le stockage Azure Data Lake Gen2
 
 
-![data-driven-workflow](https://github.com/azurecorner/azure-datafactory/assets/108787059/b955e689-f48c-4e50-a520-104aee0429d8)
-
-
-![architecture-data-factory-1](https://github.com/azurecorner/azure-datafactory/assets/108787059/4358f59e-e125-4be8-9ddf-f0e3e70adb75)
-
-https://www.decivision.com/blog/microsoft-bi/presentation-de-azure-data-factory
-
-https://learn.microsoft.com/fr-fr/training/modules/data-integration-azure-data-factory/5-understand-components
 
  
