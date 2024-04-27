@@ -19,10 +19,10 @@ https://learn.microsoft.com/fr-fr/training/modules/data-integration-azure-data-f
 Cette serie de tutoriel est destiné aux  professionnels de la data dans Azure (data engineer, data architect, étudiants). 
 
 2. Quel problème spécifique cette session résoudra-t-elle ?
-Cette session  permettra au public de comprendre comment créer un service datafactory dans Azure pour creer des pipelines de données de manière sécurisée et évolutive 
+Cette session  permettra au participants de comprendre comment créer un service datafactory dans Azure pour creer des pipelines de données de manière sécurisée et évolutive 
 
 3. Que pourra faire le public après avoir regardé cette session ?	
-   Le public pourra créer un service datafactory et créer un pipeline integration de donnee dans Azure via le portail Azure.
+   Les participants pourront créer un service datafactory et un pipeline d'integration de données dans Azure via le portail Azure.
 
 Dans cette session, je vais donc créer un service Azure Data Factory pour transférer des fichiers depuis un compte de stockage Azure vers un stockage Azure Data Lake Gen2. Pour cela, je vais créer les services suivants :
 
