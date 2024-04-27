@@ -33,6 +33,9 @@ Un service Azure Data Factory
 Deux Linked-Services , l'un pour se connecter au compte de stockage Azure en utilisant Azure Key Vault, l'autre pour se connecter au stockage Azure Data Lake Gen2
 Un pipeline pour transformer et transférer le fichier vers le stockage Azure Data Lake Gen2
 
+![Architecture drawio](https://github.com/azurecorner/azure-datafactory/assets/108787059/8ec2cdcd-014c-4164-86c9-05bfa89d795e)
+
+
 
 
  
